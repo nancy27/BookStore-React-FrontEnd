@@ -1,3 +1,6 @@
+This project is a React Front Application connecting to the REST APIs of the previous Project from the Repository(BookStore).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
