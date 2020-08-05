@@ -1,4 +1,4 @@
-This project is a React Front Application connecting to the REST APIs of the previous Project from the Repository(BookStore).
+This project is a React Front Application connecting to the REST APIs of the previous Project from the Repository(BookStore)https://github.com/nancy27/BookStore_BackEnd . It provides a UI of list of all the books and books can be added/updatedand deleted using button.The result would be updated in the book db server. 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
